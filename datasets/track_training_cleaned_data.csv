@@ -1,0 +1,511 @@
+text,track
+How do I begin data science?,Data Scientist
+What skills do I need for data?,Data Scientist
+What tools work for data science?,Data Scientist
+How can I learn Python for data?,Data Scientist
+What's a data hypothesis test?,Data Scientist
+How do I clean up data?,Data Scientist
+Why is SQL good for data?,Data Scientist
+How do I group data?,Data Scientist
+What's data testing?,Data Scientist
+How do I predict data trends?,Data Scientist
+How do I use data with pandas?,Data Scientist
+What's data probability?,Data Scientist
+Can I use Tableau for data?,Data Scientist
+What's data stats?,Data Scientist
+How do I make data pipelines?,Data Scientist
+How do I simplify data?,Data Scientist
+How do I share data insights?,Data Scientist
+Is R useful for data?,Data Scientist
+How do I spot bad data?,Data Scientist
+What's data connection?,Data Scientist
+How do I test data ideas?,Data Scientist
+How do I improve data models?,Data Scientist
+What's data policy?,Data Scientist
+Is Power BI for data?,Data Scientist
+How do I analyze data?,Data Scientist
+How do I pick data samples?,Data Scientist
+What's data forecasting?,Data Scientist
+Why is data privacy important?,Data Scientist
+How do I test data results?,Data Scientist
+Can I use big data tools?,Data Scientist
+How do I ready data?,Data Scientist
+What's data cause analysis?,Data Scientist
+How do I ensure data quality?,Data Scientist
+Can Excel help with data?,Data Scientist
+How do I start AI?,AI & Machine Learning
+What skills do I need for ML?,AI & Machine Learning
+How do I use TensorFlow for AI?,AI & Machine Learning
+What's AI learning?,AI & Machine Learning
+How do I learn AI vision?,AI & Machine Learning
+What's AI text processing?,AI & Machine Learning
+Is PyTorch good for ML?,AI & Machine Learning
+How does ML optimization work?,AI & Machine Learning
+What's AI model transfer?,AI & Machine Learning
+How do AI models create?,AI & Machine Learning
+How do I adjust ML settings?,AI & Machine Learning
+What's an AI neural network?,AI & Machine Learning
+Why does AI fairness matter?,AI & Machine Learning
+Can I use scikit-learn for ML?,AI & Machine Learning
+What's an AI sequence model?,AI & Machine Learning
+How do I learn ML without labels?,AI & Machine Learning
+How do I test ML models?,AI & Machine Learning
+What's ML model combining?,AI & Machine Learning
+How do I launch AI models?,AI & Machine Learning
+What's AI focus mechanism?,AI & Machine Learning
+What's shared AI learning?,AI & Machine Learning
+How do I build AI with Keras?,AI & Machine Learning
+What's AI model attack?,AI & Machine Learning
+How do I understand ML models?,AI & Machine Learning
+Can AI group data?,AI & Machine Learning
+How do I choose ML inputs?,AI & Machine Learning
+What's an AI graph model?,AI & Machine Learning
+How does AI handle time data?,AI & Machine Learning
+What's automated AI?,AI & Machine Learning
+Is XGBoost for ML?,AI & Machine Learning
+What's an AI transformer?,AI & Machine Learning
+Can ML spot odd data?,AI & Machine Learning
+What's AI model ops?,AI & Machine Learning
+How do I start web development?,Web Developer
+What skills do I need for web coding?,Web Developer
+What tools are best for web design?,Web Developer
+How do I learn HTML for web?,Web Developer
+What's CSS for web styling?,Web Developer
+How do I use JavaScript for web?,Web Developer
+Why is React good for web?,Web Developer
+How do I build web layouts?,Web Developer
+What's a web framework?,Web Developer
+How do I make web apps?,Web Developer
+Can I use Node.js for web?,Web Developer
+What's web responsiveness?,Web Developer
+How do I debug web code?,Web Developer
+Is Vue.js useful for web?,Web Developer
+How do I host web pages?,Web Developer
+What's web accessibility?,Web Developer
+How do I optimize web speed?,Web Developer
+Can I learn web APIs?,Web Developer
+What's web security?,Web Developer
+How do I test web apps?,Web Developer
+How do I use web databases?,Web Developer
+What's a web server?,Web Developer
+How do I learn web frameworks?,Web Developer
+Is Angular good for web?,Web Developer
+How do I style web pages?,Web Developer
+What's web performance?,Web Developer
+How do I build web forms?,Web Developer
+Why is web SEO important?,Web Developer
+How do I use web libraries?,Web Developer
+Can I learn web animation?,Web Developer
+What's a web CMS?,Web Developer
+How do I secure web apps?,Web Developer
+How do I update web code?,Web Developer
+Can I use TypeScript for web?,Web Developer
+How do I start cybersecurity?,Cybersecurity
+What skills do I need for cyber defense?,Cybersecurity
+What tools protect cyber systems?,Cybersecurity
+How do I learn cyber hacking?,Cybersecurity
+What's a cyber firewall?,Cybersecurity
+How do I secure cyber networks?,Cybersecurity
+Why is encryption key for cyber?,Cybersecurity
+How do I detect cyber threats?,Cybersecurity
+What's cyber penetration testing?,Cybersecurity
+How do I stop cyber attacks?,Cybersecurity
+Can I learn cyber forensics?,Cybersecurity
+What's cyber risk analysis?,Cybersecurity
+How do I monitor cyber systems?,Cybersecurity
+Is Kali Linux for cyber?,Cybersecurity
+How do I patch cyber vulnerabilities?,Cybersecurity
+What's cyber authentication?,Cybersecurity
+How do I respond to cyber incidents?,Cybersecurity
+Can I learn cyber ethics?,Cybersecurity
+What's a cyber VPN?,Cybersecurity
+How do I test cyber defenses?,Cybersecurity
+How do I secure cyber data?,Cybersecurity
+What's cyber malware?,Cybersecurity
+How do I learn cyber protocols?,Cybersecurity
+Is Wireshark good for cyber?,Cybersecurity
+How do I block cyber intrusions?,Cybersecurity
+What's cyber compliance?,Cybersecurity
+How do I encrypt cyber files?,Cybersecurity
+Why is cyber awareness key?,Cybersecurity
+How do I use cyber tools?,Cybersecurity
+Can I learn cyber auditing?,Cybersecurity
+What's a cyber SIEM?,Cybersecurity
+How do I fix cyber breaches?,Cybersecurity
+How do I update cyber defenses?,Cybersecurity
+Can I learn cyber scripting?,Cybersecurity
+How do I start mobile development?,Mobile Developer
+What skills do I need for mobile apps?,Mobile Developer
+What tools build mobile apps?,Mobile Developer
+How do I learn Swift for mobile?,Mobile Developer
+What's Android for mobile?,Mobile Developer
+How do I code mobile apps?,Mobile Developer
+Why is Flutter good for mobile?,Mobile Developer
+How do I design mobile UI?,Mobile Developer
+What's a mobile SDK?,Mobile Developer
+How do I test mobile apps?,Mobile Developer
+Can I use Kotlin for mobile?,Mobile Developer
+What's mobile responsiveness?,Mobile Developer
+How do I debug mobile code?,Mobile Developer
+Is React Native for mobile?,Mobile Developer
+How do I publish mobile apps?,Mobile Developer
+What's mobile security?,Mobile Developer
+How do I optimize mobile apps?,Mobile Developer
+Can I learn mobile APIs?,Mobile Developer
+What's mobile performance?,Mobile Developer
+How do I use mobile databases?,Mobile Developer
+How do I build mobile features?,Mobile Developer
+What's a mobile framework?,Mobile Developer
+How do I learn mobile testing?,Mobile Developer
+Is Xamarin good for mobile?,Mobile Developer
+How do I update mobile apps?,Mobile Developer
+What's mobile UX?,Mobile Developer
+How do I secure mobile apps?,Mobile Developer
+Why is mobile compatibility key?,Mobile Developer
+How do I use mobile libraries?,Mobile Developer
+Can I learn mobile analytics?,Mobile Developer
+What's a mobile emulator?,Mobile Developer
+How do I scale mobile apps?,Mobile Developer
+How do I fix mobile bugs?,Mobile Developer
+Can I use Java for mobile?,Mobile Developer
+How do I start game development?,Game Developer
+What skills do I need for game coding?,Game Developer
+What tools make game graphics?,Game Developer
+How do I learn Unity for games?,Game Developer
+What's Unreal for games?,Game Developer
+How do I code game logic?,Game Developer
+Why is C# good for games?,Game Developer
+How do I design game levels?,Game Developer
+What's a game engine?,Game Developer
+How do I test game mechanics?,Game Developer
+Can I use C++ for games?,Game Developer
+What's game physics?,Game Developer
+How do I debug game code?,Game Developer
+Is Godot good for games?,Game Developer
+How do I build game worlds?,Game Developer
+What's game rendering?,Game Developer
+How do I optimize game speed?,Game Developer
+Can I learn game AI?,Game Developer
+What's game audio?,Game Developer
+How do I create game assets?,Game Developer
+How do I make game multiplayer?,Game Developer
+What's a game loop?,Game Developer
+How do I learn game scripting?,Game Developer
+Is Blender good for games?,Game Developer
+How do I publish games?,Game Developer
+What's game balance?,Game Developer
+How do I secure game servers?,Game Developer
+Why is game testing key?,Game Developer
+How do I use game libraries?,Game Developer
+Can I learn game VR?,Game Developer
+What's a game pipeline?,Game Developer
+How do I fix game bugs?,Game Developer
+How do I update game content?,Game Developer
+Can I use Python for games?,Game Developer
+How do I start data engineering?,Data Engineer
+What skills do I need for data pipelines?,Data Engineer
+What tools manage data flows?,Data Engineer
+How do I learn SQL for data?,Data Engineer
+What's ETL for data?,Data Engineer
+How do I build data systems?,Data Engineer
+Why is Spark good for data?,Data Engineer
+How do I store big data?,Data Engineer
+What's a data warehouse?,Data Engineer
+How do I process data streams?,Data Engineer
+Can I use Hadoop for data?,Data Engineer
+What's data scalability?,Data Engineer
+How do I clean data flows?,Data Engineer
+Is Airflow good for data?,Data Engineer
+How do I secure data pipelines?,Data Engineer
+What's data integration?,Data Engineer
+How do I optimize data queries?,Data Engineer
+Can I learn data modeling?,Data Engineer
+What's data orchestration?,Data Engineer
+How do I manage data lakes?,Data Engineer
+How do I test data systems?,Data Engineer
+What's a data schema?,Data Engineer
+How do I learn data tools?,Data Engineer
+Is Kafka good for data?,Data Engineer
+How do I update data pipelines?,Data Engineer
+What's data reliability?,Data Engineer
+How do I handle data errors?,Data Engineer
+Why is data governance key?,Data Engineer
+How do I use data APIs?,Data Engineer
+Can I learn data automation?,Data Engineer
+What's a data cluster?,Data Engineer
+How do I scale data systems?,Data Engineer
+How do I fix data issues?,Data Engineer
+Can I use Python for data?,Data Engineer
+How do I start data analysis?,Data Analyst
+What skills do I need for data insights?,Data Analyst
+What tools help with data reports?,Data Analyst
+How do I learn Excel for data?,Data Analyst
+What's data visualization?,Data Analyst
+How do I analyze data sets?,Data Analyst
+Why is Tableau good for data?,Data Analyst
+How do I create data charts?,Data Analyst
+What's a data dashboard?,Data Analyst
+How do I find data patterns?,Data Analyst
+Can I use Power BI for data?,Data Analyst
+What's data cleaning?,Data Analyst
+How do I query data?,Data Analyst
+Is SQL good for data?,Data Analyst
+How do I share data findings?,Data Analyst
+What's data metrics?,Data Analyst
+How do I summarize data?,Data Analyst
+Can I learn data stats?,Data Analyst
+What's data correlation?,Data Analyst
+How do I test data hypotheses?,Data Analyst
+How do I use data tools?,Data Analyst
+What's a data pivot?,Data Analyst
+How do I learn data filtering?,Data Analyst
+Is Python good for data?,Data Analyst
+How do I build data reports?,Data Analyst
+What's data forecasting?,Data Analyst
+How do I improve data skills?,Data Analyst
+Why is data accuracy key?,Data Analyst
+How do I handle data errors?,Data Analyst
+Can I learn data automation?,Data Analyst
+What's a data trend?,Data Analyst
+How do I present data?,Data Analyst
+How do I update data models?,Data Analyst
+Can I use R for data?,Data Analyst
+How do I start UI/UX design?,UI/UX
+What skills do I need for UI?,UI/UX
+What tools create UX designs?,UI/UX
+How do I learn Figma for UI?,UI/UX
+What's UX wireframing?,UI/UX
+How do I design UI layouts?,UI/UX
+Why is Sketch good for UX?,UI/UX
+How do I test UX flows?,UI/UX
+What's a UI prototype?,UI/UX
+How do I improve UX?,UI/UX
+"Can I use Adobe XD for UI	UI/UX""",
+What's UI accessibility?,UI/UX
+How do I create UX personas?,UI/UX
+Is InVision good for UX?,UI/UX
+How do I make UI responsive?,UI/UX
+What's UX research?,UI/UX
+How do I optimize UI navigation?,UI/UX
+Can I learn UX testing?,UI/UX
+What's UI color theory?,UI/UX
+How do I design UX journeys?,UI/UX
+How do I use UI patterns?,UI/UX
+What's a UX storyboard?,UI/UX
+How do I learn UI animation?,UI/UX
+Is Axure good for UX?,UI/UX
+How do I create UI mockups?,UI/UX
+What's UX feedback?,UI/UX
+How do I improve UI visuals?,UI/UX
+Why is UX usability key?,UI/UX
+How do I test UI designs?,UI/UX
+Can I learn UX analytics?,UI/UX
+What's a UI style guide?,UI/UX
+How do I fix UX issues?,UI/UX
+How do I update UI designs?,UI/UX
+Can I use Canva for UI?,UI/UX
+How do I start cloud engineering?,Cloud Engineer
+What skills do I need for cloud?,Cloud Engineer
+What tools manage cloud systems?,Cloud Engineer
+How do I learn AWS for cloud?,Cloud Engineer
+What's Azure for cloud?,Cloud Engineer
+How do I build cloud apps?,Cloud Engineer
+Why is GCP good for cloud?,Cloud Engineer
+How do I secure cloud data?,Cloud Engineer
+What's a cloud architecture?,Cloud Engineer
+How do I scale cloud systems?,Cloud Engineer
+Can I use Kubernetes for cloud?,Cloud Engineer
+What's cloud migration?,Cloud Engineer
+How do I monitor cloud performance?,Cloud Engineer
+Is Terraform good for cloud?,Cloud Engineer
+How do I optimize cloud costs?,Cloud Engineer
+What's cloud networking?,Cloud Engineer
+How do I deploy cloud apps?,Cloud Engineer
+Can I learn cloud automation?,Cloud Engineer
+What's cloud storage?,Cloud Engineer
+How do I test cloud setups?,Cloud Engineer
+How do I use cloud APIs?,Cloud Engineer
+What's a cloud container?,Cloud Engineer
+How do I learn cloud security?,Cloud Engineer
+Is Ansible good for cloud?,Cloud Engineer
+How do I update cloud systems?,Cloud Engineer
+What's cloud reliability?,Cloud Engineer
+How do I fix cloud issues?,Cloud Engineer
+Why is cloud backup key?,Cloud Engineer
+How do I manage cloud resources?,Cloud Engineer
+Can I learn cloud scripting?,Cloud Engineer
+What's a cloud VPC?,Cloud Engineer
+How do I improve cloud speed?,Cloud Engineer
+How do I use cloud databases?,Cloud Engineer
+Can I learn cloud monitoring?,Cloud Engineer
+How do I start DevOps?,DevOps Engineer
+What skills do I need for DevOps?,DevOps Engineer
+What tools help DevOps pipelines?,DevOps Engineer
+How do I learn Docker for DevOps?,DevOps Engineer
+What's CI/CD in DevOps?,DevOps Engineer
+How do I automate DevOps tasks?,DevOps Engineer
+Why is Jenkins good for DevOps?,DevOps Engineer
+How do I monitor DevOps systems?,DevOps Engineer
+What's a DevOps workflow?,DevOps Engineer
+How do I test DevOps code?,DevOps Engineer
+Can I use Git for DevOps?,DevOps Engineer
+What's DevOps deployment?,DevOps Engineer
+How do I secure DevOps pipelines?,DevOps Engineer
+Is Kubernetes good for DevOps?,DevOps Engineer
+How do I optimize DevOps builds?,DevOps Engineer
+What's DevOps orchestration?,DevOps Engineer
+How do I scale DevOps systems?,DevOps Engineer
+Can I learn DevOps scripting?,DevOps Engineer
+What's DevOps logging?,DevOps Engineer
+How do I manage DevOps tools?,DevOps Engineer
+How do I use DevOps APIs?,DevOps Engineer
+What's a DevOps container?,DevOps Engineer
+How do I learn DevOps automation?,DevOps Engineer
+Is Ansible good for DevOps?,DevOps Engineer
+How do I improve DevOps speed?,DevOps Engineer
+What's DevOps reliability?,DevOps Engineer
+How do I fix DevOps errors?,DevOps Engineer
+Why is DevOps collaboration key?,DevOps Engineer
+How do I update DevOps pipelines?,DevOps Engineer
+Can I learn DevOps monitoring?,DevOps Engineer
+What's a DevOps rollback?,DevOps Engineer
+How do I secure DevOps code?,DevOps Engineer
+How do I use DevOps clouds?,DevOps Engineer
+Can I learn DevOps testing?,DevOps Engineer
+How do I start systems admin?,Systems Administrator
+What skills do I need for systems?,Systems Administrator
+What tools manage system networks?,Systems Administrator
+How do I learn Linux for systems?,Systems Administrator
+What's Windows for systems?,Systems Administrator
+How do I secure system servers?,Systems Administrator
+Why is VMware good for systems?,Systems Administrator
+How do I monitor system performance?,Systems Administrator
+What's a system backup?,Systems Administrator
+How do I patch system software?,Systems Administrator
+Can I use PowerShell for systems?,Systems Administrator
+What's system uptime?,Systems Administrator
+How do I troubleshoot system issues?,Systems Administrator
+Is Active Directory for systems?,Systems Administrator
+How do I manage system users?,Systems Administrator
+What's system virtualization?,Systems Administrator
+How do I optimize system resources?,Systems Administrator
+Can I learn system scripting?,Systems Administrator
+What's system logging?,Systems Administrator
+How do I update system hardware?,Systems Administrator
+How do I use system APIs?,Systems Administrator
+What's a system firewall?,Systems Administrator
+How do I learn system security?,Systems Administrator
+Is Bash good for systems?,Systems Administrator
+How do I scale system networks?,Systems Administrator
+What's system recovery?,Systems Administrator
+How do I fix system crashes?,Systems Administrator
+Why is system monitoring key?,Systems Administrator
+How do I manage system storage?,Systems Administrator
+Can I learn system automation?,Systems Administrator
+What's a system cluster?,Systems Administrator
+How do I secure system access?,Systems Administrator
+How do I test system configs?,Systems Administrator
+Can I use Python for systems?,Systems Administrator
+How do I start robotics engineering?,Robotics Engineer
+What skills do I need for robotics?,Robotics Engineer
+What tools build robot systems?,Robotics Engineer
+How do I learn ROS for robotics?,Robotics Engineer
+What's Arduino for robotics?,Robotics Engineer
+How do I code robot controls?,Robotics Engineer
+Why is Python good for robotics?,Robotics Engineer
+How do I design robot sensors?,Robotics Engineer
+What's a robot actuator?,Robotics Engineer
+How do I test robot movements?,Robotics Engineer
+Can I use Raspberry Pi for robotics?,Robotics Engineer
+What's robot navigation?,Robotics Engineer
+How do I debug robot code?,Robotics Engineer
+Is MATLAB good for robotics?,Robotics Engineer
+How do I build robot arms?,Robotics Engineer
+What's robot vision?,Robotics Engineer
+How do I optimize robot tasks?,Robotics Engineer
+Can I learn robot AI?,Robotics Engineer
+What's robot kinematics?,Robotics Engineer
+How do I program robot paths?,Robotics Engineer
+How do I use robot simulators?,Robotics Engineer
+What's a robot controller?,Robotics Engineer
+How do I learn robot dynamics?,Robotics Engineer
+Is C++ good for robotics?,Robotics Engineer
+How do I improve robot accuracy?,Robotics Engineer
+What's robot autonomy?,Robotics Engineer
+How do I secure robot systems?,Robotics Engineer
+Why is robot testing key?,Robotics Engineer
+How do I update robot firmware?,Robotics Engineer
+Can I learn robot mapping?,Robotics Engineer
+What's a robot swarm?,Robotics Engineer
+How do I fix robot errors?,Robotics Engineer
+How do I scale robot tasks?,Robotics Engineer
+Can I use Java for robotics?,Robotics Engineer
+How do I start database admin?,Database Administrator
+What skills do I need for databases?,Database Administrator
+What tools manage database systems?,Database Administrator
+How do I learn SQL for databases?,Database Administrator
+What's MySQL for databases?,Database Administrator
+How do I secure database data?,Database Administrator
+Why is Oracle good for databases?,Database Administrator
+How do I optimize database queries?,Database Administrator
+What's a database schema?,Database Administrator
+How do I backup database data?,Database Administrator
+Can I use PostgreSQL for databases?,Database Administrator
+What's database indexing?,Database Administrator
+How do I monitor database performance?,Database Administrator
+Is MongoDB good for databases?,Database Administrator
+How do I scale database systems?,Database Administrator
+What's database replication?,Database Administrator
+How do I test database integrity?,Database Administrator
+Can I learn database scripting?,Database Administrator
+What's database normalization?,Database Administrator
+How do I manage database users?,Database Administrator
+How do I use database APIs?,Database Administrator
+What's a database trigger?,Database Administrator
+How do I learn database tuning?,Database Administrator
+Is SQL Server good for databases?,Database Administrator
+How do I fix database errors?,Database Administrator
+What's database recovery?,Database Administrator
+How do I update database systems?,Database Administrator
+Why is database security key?,Database Administrator
+How do I handle database crashes?,Database Administrator
+Can I learn database automation?,Database Administrator
+What's a database view?,Database Administrator
+How do I improve database speed?,Database Administrator
+How do I test database backups?,Database Administrator
+Can I use Python for databases?,Database Administrator
+What's the best travel destination?,none
+What's the weather?,none
+What's the weather?,none
+Tell me a joke,none
+How do I fix my car?,none
+How do I train my dog?,none
+What's the best restaurant?,none
+Tell me a joke,none
+How do I care for a cat?,none
+What's the weather?,none
+What's the capital of France?,none
+How do I meditate?,none
+Can you help with Spanish?,none
+What's the weather?,none
+What's the price of gold?,none
+Can you explain the stock market?,none
+How do I clean my room?,none
+Tell me a joke,none
+What's the basketball score?,none
+Who is the president?,none
+What is the distance to the moon?,none
+Tell me a joke.,none
+How do I make a smoothie?,none
+How do I plant a tree?,none
+What is the theory of relativity?,none
+Can you help with math homework?,none
+Tell me a joke,none
+Can you recommend a podcast?,none
+What is the history of Rome?,none
+Tell me a joke,none
+Tell me a joke,none
+What's the latest news?,none
+What's the weather?,none
+What is the tallest mountain?,none
+What's the weather?,none

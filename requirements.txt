@@ -1,0 +1,14 @@
+# Requirements file for RoaTech Chatbot
+# Install using: pip install -r requirements.txt
+
+# Core dependencies
+pandas==2.2.2
+scikit-learn==1.5.0
+sentence-transformers==3.0.0
+streamlit==1.35.0
+numpy==1.26.4
+python-dotenv==1.0.1
+google-api-python-client==2.130.0
+
+# Ensure compatibility with Python 3.11
+python>=3.11,<3.12
