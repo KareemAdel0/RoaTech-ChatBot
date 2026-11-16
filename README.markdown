@@ -1,62 +1,56 @@
-# RoaTech Chatbot 🤖
+# RoaTech: AI Career-Guidance Chatbot 🤖
 
-![Python](https://img.shields.io/badge/Python-3.11-blue.svg)  
-![Streamlit](https://img.shields.io/badge/Streamlit-1.35.0-red.svg)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-NLP-blueviolet?style=flat)
 
-AI-powered chatbot to guide users through tech career paths with tailored roadmaps.
-
-## 🚀 Overview
-
-RoaTech Chatbot predicts tech tracks (e.g., Data Science) using a logistic regression model and provides learning roadmaps with YouTube resources.
-
-## 📂 Structure
-- `streamlit_app.py`: Main Streamlit app.
-- `train_transformer_model.py`: Model training script.
-- `track_training_cleaned_data.csv`: Training dataset.
-- `requirements.txt`: Dependencies.
-- `model_pkl_files/`: Trained models.
-
-## 🛠️ Setup
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/KareemAdel0/RoaTech_ChatBot.git
-   cd RoaTech_ChatBot
-   ```
-2. Set up a virtual environment:
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate  # Windows: .venv\Scripts\activate
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Add YouTube API key in `.env`:
-   ```
-   YOUTUBE_API_KEY=your-api-key
-   ```
-5. Train the model (if needed):
-   ```bash
-   python train_transformer_model.py
-   ```
-6. Run the app:
-   ```bash
-   streamlit run streamlit_app.py
-   ```
-
-## 🌐 Deployment
-Deploy on [Streamlit Community Cloud](https://share.streamlit.io/):
-- Push to GitHub.
-- Select `RoaTech_ChatBot` and `streamlit_app.py`.
-
-## 💻 Usage
-- Greet ("hello") to start.
-- Choose to explore tracks or get a roadmap.
-- Select a track and level (beginner/intermediate/advanced).
-
-## 📧 Contact
-Kareem Adel - [LinkedIn](https://linkedin.com/in/kareem-adel-65441a1b0)
+RoaTech helps beginners find the tech track that fits them. The user describes their interests in free text, the bot predicts the closest track (Data Science, Web Development, and more), then builds a level-based learning roadmap with YouTube resources for each step.
 
 ---
 
-*Generated on 2025-05-14 at 04:08 AM EEST*
+## 📌 How It Works
+
+1. **Understand the user:** the input is encoded into a semantic vector with the `all-MiniLM-L6-v2` **Sentence Transformer**.
+2. **Predict the track:** a **Logistic Regression** classifier (tuned with 5-fold GridSearchCV) trained on ~500 labeled questions maps the embedding to a tech track.
+3. **Build the roadmap:** the user picks a level (beginner / intermediate / advanced) and gets a structured roadmap.
+4. **Find resources:** each roadmap step is linked to a video through the **YouTube Data API**.
+5. **Handle messy input:** fuzzy matching (`difflib`) tolerates typos in track and level names.
+6. **Collect feedback:** users rate the experience, and responses are stored to improve the bot.
+
+## 📂 Structure
+
+```
+├── streamlit_app.py              # Chat interface
+├── train_transformer_model.py    # Embeddings + Logistic Regression training
+├── roadmaps.py                   # Roadmaps per track and level
+├── datasets/
+│   ├── track_training_cleaned_data.csv
+│   └── feedback.csv
+└── requirements.txt
+```
+
+## ▶️ Run Locally
+
+```bash
+git clone https://github.com/KareemAdel0/RoaTech-ChatBot.git
+cd RoaTech-ChatBot
+pip install -r requirements.txt
+```
+
+Add your YouTube API key to a `.env` file:
+
+```
+YOUTUBE_API_KEY=your-api-key
+```
+
+Train the model (creates `model_pkl_files/`), then start the app:
+
+```bash
+python train_transformer_model.py
+streamlit run streamlit_app.py
+```
+
+---
+
+Built by [Kareem Adel](https://www.linkedin.com/in/kareem-adel-mostafa/).
